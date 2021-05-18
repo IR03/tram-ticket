@@ -1,0 +1,48 @@
+.card-signin {
+    border-radius: 1rem !important;
+  }
+  
+  .card-signin .card_title {
+    margin-bottom: 2rem !important;
+  }
+  
+  .card-signin .card_body {
+    padding: 2rem !important;
+  }
+  
+  .form_signin {
+    width: 100% !important;
+  }
+  
+  .signin_btn {
+    font-size: 80% !important;
+    border-radius: 5rem !important;
+    letter-spacing: 0.1rem !important;
+    font-weight: bold !important;
+    padding: 1rem !important;
+    transition: all 0.2s !important;
+    box-shadow: none !important;
+  }
+  
+  .form_group {
+    position: relative;
+    margin-bottom: 1rem;
+  }
+  
+  .form_group input {
+    padding: 0.7rem;
+    height: auto;
+    border-radius: 2rem;
+    box-shadow: none !important;
+  }
+  
+  .btn-google {
+    color: white;
+    background-color: #ea4335 !important;
+  }
+  
+  .btn-google:hover {
+    background-color: #cc2f20 !important;
+  }
+ 
+  
